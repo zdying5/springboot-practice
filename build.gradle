@@ -9,7 +9,7 @@ version '1.0'
 
 java {
     toolchain {
-        languageVersion = JavaLanguageVersion.of(25) // JDK 25 installed
+        languageVersion = JavaLanguageVersion.of(22) // changed from 25 -> 22 to match local ~/.jdks/temurin-22.0.2
     }
 }
 

@@ -1,3 +1,5 @@
+package me.scpark.springbootdeveloper;
+
 import org.junit.jupiter.api.*;
 
 public class JUnitTest {
